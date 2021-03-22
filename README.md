@@ -1,2 +1,2 @@
 # SEM3Project
-Lap price prediction using Machine learning in Python
+Laptop price prediction using Machine learning in Python
